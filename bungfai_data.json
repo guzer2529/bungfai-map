@@ -1,29 +1,18 @@
-
 [
   {
-    "event_name": "งานประเพณีบุญบั้งไฟยโสธร",
-    "location": "สนามหน้าที่ว่าการอำเภอเมืองยโสธร",
-    "lat": 15.794,
-    "lng": 104.145,
+    "name": "งานบุญบั้งไฟยโสธร",
     "date": "2025-05-18",
-    "rocket_type": "บั้งไฟหมื่น",
-    "max_height_estimate_m": 1500,
-    "launch_frequency": "ทุก 30 นาที",
-    "no_drone_zone": true,
-    "image_urls": [],
-    "source": ""
+    "location": "อำเภอเมือง จังหวัดยโสธร",
+    "latitude": 15.794,
+    "longitude": 104.145,
+    "rocket_height": "สูงมาก (มากกว่า 500 เมตร)"
   },
   {
-    "event_name": "งานบั้งไฟหนองบัวลำภู",
-    "location": "ลานวัฒนธรรม หนองบัวลำภู",
-    "lat": 17.204,
-    "lng": 102.438,
-    "date": "2025-05-25",
-    "rocket_type": "บั้งไฟแสน",
-    "max_height_estimate_m": 3000,
-    "launch_frequency": "ทุก 20 นาที",
-    "no_drone_zone": true,
-    "image_urls": [],
-    "source": ""
+    "name": "งานบั้งไฟบ้านโพนทอง",
+    "date": "2025-05-22",
+    "location": "อำเภอโพนทอง จังหวัดร้อยเอ็ด",
+    "latitude": 16.324,
+    "longitude": 103.955,
+    "rocket_height": "กลาง (200-300 เมตร)"
   }
 ]
